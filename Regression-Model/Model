@@ -1,2 +1,3 @@
-I have trained the data with various Algorithms and tested them to check which of the following models would give me
-the highest Accuracy and Precision 
+I trained the dataset using various algorithms and evaluated their performance to determine which model delivers the highest accuracy and precision.
+
+Link to Colab: https://colab.research.google.com/drive/1HiLiX9-eZ2M0xdzGvamr4OGvw8izZ953?usp=sharing
